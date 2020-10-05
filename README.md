@@ -29,5 +29,6 @@ yarn build
 
 
 ### Future development thoughts 
-- Imporve performence of charts, and make smarter way of handling hundrets of points.
+- Imporve performence of charts, and make smarter way of handling hundreds of points.
 - Write more tests.
+- Improve the UI in the chart component. 
