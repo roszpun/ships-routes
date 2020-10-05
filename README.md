@@ -1,8 +1,20 @@
-# csv-map
+
 
 ## Project setup
 ```
+git clone https://github.com/roszpun/ships-routes.git
+```
+
+```
+cd ships-routes
+```
+
+```
 yarn install
+```
+
+```
+Remove .example from .env file. Provide google maps, api key
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,15 +27,7 @@ yarn serve
 yarn build
 ```
 
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Future development thoughts 
+- Imporve performence of charts, and make smarter way of handling hundrets of points.
+- Write more tests.
